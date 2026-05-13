@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Qazaq Food</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="2.css">
 </head>
 <body>
 
@@ -35,7 +35,7 @@
 
             <div class="card">
 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Beshbarmak.jpg">
+                <img src="besh.png">
 
                 <h3>Бешбармак</h3>
 
@@ -49,7 +49,7 @@
 
             <div class="card">
 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Kazy.jpg">
+                <img src="kolbas.png">
 
                 <h3>Казы</h3>
 
@@ -63,7 +63,7 @@
 
             <div class="card">
 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Baursaks.jpg">
+                <img src="baursak.png">
 
                 <h3>Баурсаки</h3>
 
